@@ -1,5 +1,3 @@
-import unittest
-
 def karatsuba(numberOne, numberTwo):
     if numberOne < 10 or numberTwo < 10:
         return numberOne * numberTwo
