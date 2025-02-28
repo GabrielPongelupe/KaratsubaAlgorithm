@@ -124,6 +124,8 @@ Arestas Encontrados (E):
 
 **GRAFO DE FLUXO:**
 
+![image](https://github.com/user-attachments/assets/ee358f4b-5f5a-4b36-8e34-3f6e0a1e46f9)
+
 Resultado:
 
 * E (Número de arestas) = 16
